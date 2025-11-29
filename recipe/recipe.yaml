@@ -1,5 +1,5 @@
 context:
-  version: "0.28.14"
+  version: "0.28.15"
 
 package:
   name: typedoc
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/typedoc/-/typedoc-${{ version }}.tgz
-  sha256: f4ed86642fcaf1a0c19372fc4f174b55da9c60753f87f7df2600da6b66ae5048
+  sha256: 6e2bd59ec6627d1ed3840d0a39c28a177d445be27154c4ebabafb11859bda872
 
 build:
   number: 0
